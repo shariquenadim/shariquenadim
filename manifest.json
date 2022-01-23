@@ -1,0 +1,28 @@
+{
+  "background_color": "#ffffff",
+  "description": "I am a Developer. I have acquired the skills and knowledge necessary to make your project awesome. I do my work from discussion and collaboration.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "www.shariquenadim",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "www.shariquenadim",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/ico",
+      "sizes": "18x18"
+    },
+    {
+      "src": "images/747x750.png",
+      "type": "image/png",
+      "sizes": "747x750"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ]
+}
