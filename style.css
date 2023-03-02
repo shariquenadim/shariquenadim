@@ -303,6 +303,7 @@ select {
     white-space: nowrap;
     border: none;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .btn:hover {
